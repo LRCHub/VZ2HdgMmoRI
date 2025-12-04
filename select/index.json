@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Mad Hope",
+  "base_artist": "星野 源",
+  "createdAt": "2025-12-04T13:43:38.134031Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mad Hope (feat. Louis Cole, Sam Gendel, Sam Wilkes)",
+      "artist": "Gen Hoshino",
+      "has_synced": false,
+      "path": "select/01_Mad_Hope_(feat._Louis_Cole,_Sam_Gendel,_Sam_Wilkes)_Gen_Hoshino.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mad Hope (feat. Louis Cole, Sam Gendel,Sam Wilkes)",
+      "artist": "星野源",
+      "has_synced": true,
+      "path": "select/02_Mad_Hope_(feat._Louis_Cole,_Sam_Gendel,Sam_Wilkes)_星野源.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mad Hope",
+      "artist": "Hoshino Gen",
+      "has_synced": true,
+      "path": "select/03_Mad_Hope_Hoshino_Gen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mad Hope - Short (feat. Louis Cole, Sam Gendel)",
+      "artist": "星野源",
+      "has_synced": false,
+      "path": "select/pl_01_Mad_Hope_-_Short_(feat._Louis_Cole,_Sam_Gendel)_星野源.txt"
+    }
+  ]
+}
